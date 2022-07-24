@@ -10,12 +10,18 @@ Even thought this application was build a decade earlier, it still works in the 
 
 Note: The song in the player needs to be played using the 'space bar' before using the other playback controls like next and previous. If not the application breaks. We could have just made the first song in the playlist play but we didn't. Wondering why and if there was any roadblock in implementing it. We wish we had a time machine.
 
+## Team Members:
+- [Ghanithan Subramani](https://www.linkedin.com/in/ghanithan-subramani-4b707aa0/)
+- [Karthick Natesan](https://www.linkedin.com/in/karthick-natesan-660545a0/)
+- S.V.Yuvaraj
+
 ## THE FLOW OF CONTROL:
-- The user first is asked to select the Drive from which the library is created .
-- A playlist is created from the library by the user
-- Then  the entries in the playlist can be played by the user 
-- The library can be sorted based on the fields in their tag  .
-- The MP3 DECODER used is the inbuild music player in all the windows OS (Media Control Interface) .
+- The user first is asked to select the Drive from which the library is created.
+- A playlist is created from the library by the user.
+- Then  the entries in the playlist can be played by the user. 
+- The library can be sorted based on the fields in their tag .
+- The MP3 DECODER used is the inbuild music player in all the windows OS (Media Control Interface).
+
 ![Control Flow](/doc/pics/controlFlow.png)
 
 ## The Basic Architecture Of The Software:
@@ -23,6 +29,7 @@ Note: The song in the player needs to be played using the 'space bar' before usi
 - The modules are connected like this:  library -> playlist editor -> playback .
 - The library is the base , the other 2 modules are its derivatives.i.e., the  playlist editor depends on library for its operations and the playback depends on the playlist for its operations.
 - The linked list used for the library and the playlist are interlined .i.e the playlist creates its list from the library linkedlist .
+
 ![Software Arch](/doc/pics/arch.png)
 
 ## Modules and thier hierarchy:
