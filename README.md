@@ -14,7 +14,7 @@ Note: The song in the player needs to be played using the 'space bar' before usi
 
 
 ## Team Members:
-- [Ghanithan Subramani](https://www.linkedin.com/in/ghanithan-subramani-4b707aa0/)
+- [Ghanithan Subramani](https://www.linkedin.com/in/ghanithan/)
 - [Karthick Natesan](https://www.linkedin.com/in/karthick-natesan-660545a0/)
 - S.V.Yuvaraj
 
