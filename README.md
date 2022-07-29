@@ -10,7 +10,7 @@ Even thought this application was build a decade earlier, it still works in the 
 
 Note: The song in the player needs to be played using the 'space bar' before using the other playback controls like next and previous. If not the application breaks. We could have just made the first song in the playlist play but we didn't. Wondering why and if there was any roadblock in implementing it. We wish we had a time machine.
 
-[Link to the video of the application in action](https://www.linkedin.com/posts/ghanithan-subramani-4b707aa0_internship-project-github-activity-6957022900507865088-nHJS?utm_source=linkedin_share&utm_medium=member_desktop_web)
+[Link to the video of the application in action](https://www.linkedin.com/posts/ghanithan_internship-project-github-activity-6957022900507865088-IbUT?utm_source=linkedin_share&utm_medium=android_app)
 
 
 ## Team Members:
